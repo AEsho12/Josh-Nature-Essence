@@ -1,0 +1,198 @@
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    color: #fff;
+    padding: 10px;
+}
+.icon:hover{
+    color: #263A29;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.shop{
+    cursor: pointer;
+    background-color: #41644A;
+    color: white;
+    
+}
+.boxes{
+    max-width: 660px;
+}
+
+.border{
+    max-width: 700px;
+}
+.shop:hover{
+    background-color: #263A29;
+    transition: ease-in-out 0.20s;
+    transform: scale(1.03);
+}
+.booking{
+    cursor: pointer;
+    background-color:  #41644A;
+    color: white;
+}
+.booking:hover{
+    background-color: #263A29;
+    transition: ease-in-out 0.20s;
+    transform: scale(1.03);
+    
+}
+.newsletter:hover{
+    background-color: #263A29;
+    transition: ease-in-out 0.20s;
+    transform: scale(1.03);
+}
+.newsletter{
+    cursor: pointer;
+    background-color:  #41644A;
+    color: white;
+}
+.twitter-rp{
+    cursor: pointer;
+}
+.twitter-rp::after{
+    content: '';
+    height: 2px;
+    width: 100%;
+    background: #41644A;
+    display: block;
+    position: absolute;
+    bottom: -17px;
+    opacity: 0;
+    transition: all 0.2s;
+    pointer-events: none;
+}
+.twitter-rp:hover::after,
+.twitter-rp:focus::before {
+    opacity: 1;
+}
+.instagram-rp{
+    cursor: pointer;
+}
+.instagram-rp::after{
+    content: '';
+    height: 2px;
+    width: 100%;
+    background: #41644A;
+    display: block;
+    position: absolute;
+    bottom: -17px;
+    opacity: 0;
+    transition: all 0.2s;
+    pointer-events: none;
+}
+.instagram-rp:hover::after,
+.instagram-rp:focus::before {
+    opacity: 1;
+}
+.twitter-card{
+    height: 15rem;
+}
+.main-image{
+    height: 400px;
+    max-width: 700px;
+    background-size: cover;
+}
+.main-image:hover{
+    cursor: pointer;
+    transition: ease-in-out 0.40s;
+    background: rgba(0, 0, 0, 0.4);
+}
+.content-box{
+    width: 200px;
+    height: 200px;
+    background-color: #41644A;
+}
+
+.social-contnet-boxes{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shop-box{
+    width: 200px;
+    background-color: #41644A;
+    justify-content: center;
+    
+}
+.content-cards img:hover{
+    background-color: #263A29;
+}
+.submit-btn{
+    background-color: #41644A;
+}
+.submit-btn:hover{
+    background-color: #263A29;
+    color: white;
+}
+input{
+    border: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #f2f2f2;
+    padding: 12px;
+    border-radius: 3px;
+    width: 250px;
+    outline: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: inherit;
+}
+
+.flexcontainer{
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1em ;
+    gap: 2px;
+    justify-content: center;
+    
+}
+.newtest{
+    max-width: 200px;
+    min-height: 200px;
+    background-color: #263A29;
+    flex-basis: 33%;
+}
+video{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgba(0, 0, 0, 0.2)
+}
+.content:hover .overlay {
+    opacity: 1;
+}
+.contact-email {
+    margin-top: -20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.contact-text{
+    margin-top: -40px;
+    margin-bottom: 20px;
+}
+.enquire-text{
+    margin-bottom: 30px;
+    font-size: 14px;
+}
