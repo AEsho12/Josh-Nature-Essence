@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.537a81d1.css",
+    "main.js": "/static/js/main.19366293.js",
+    "static/media/mainVideo.mp4": "/static/media/mainVideo.55e6abf817c643fa9922.mp4",
+    "static/media/IG1.png": "/static/media/IG1.e55321675db59dc45360.png",
+    "static/media/IG24.png": "/static/media/IG24.c8589e1bb7c4bc9145f2.png",
+    "static/media/IG15.png": "/static/media/IG15.168707793dd5c05c19c7.png",
+    "static/media/IG17.png": "/static/media/IG17.1c60848e73b074485317.png",
+    "static/media/IG13.png": "/static/media/IG13.531ac42f97fb7fcbe2eb.png",
+    "static/media/IG5.png": "/static/media/IG5.63a207c9e2b19c6990ca.png",
+    "static/media/IG21.png": "/static/media/IG21.0bcf0ac30312d9a4e76c.png",
+    "static/media/IG14.png": "/static/media/IG14.8eecc31efe9c3bf3fe07.png",
+    "static/media/IG16.png": "/static/media/IG16.af9e1a47b552c2ec4957.png",
+    "static/media/IG4.png": "/static/media/IG4.e79a66c5f0ce7830d06d.png",
+    "static/media/IG8.png": "/static/media/IG8.522e94405dac356b827e.png",
+    "static/media/IG18.png": "/static/media/IG18.856d858012ddfc9c8e24.png",
+    "static/media/IG23.png": "/static/media/IG23.678734f7161eeb9894c5.png",
+    "static/media/IG10.png": "/static/media/IG10.95c75a15fc018f01f2f1.png",
+    "static/media/IG9.png": "/static/media/IG9.7b69a9951f335409d28b.png",
+    "static/media/IG20.png": "/static/media/IG20.5eb833475c169643182c.png",
+    "static/media/IG19.png": "/static/media/IG19.845069443f321b718180.png",
+    "static/media/IG7.png": "/static/media/IG7.098f8915de5d78c2b0dc.png",
+    "static/media/IG12.png": "/static/media/IG12.76105b13ae71a7f82883.png",
+    "static/media/IG3.png": "/static/media/IG3.dcb9a1b51b33bc84a0c7.png",
+    "static/media/IG6.png": "/static/media/IG6.224baf67a05b69a0ebd8.png",
+    "static/media/IG11.png": "/static/media/IG11.82a40be0f1f5b47ab450.png",
+    "static/media/IG22.png": "/static/media/IG22.ff197b531c9ed4d344ec.png",
+    "static/media/IG2.png": "/static/media/IG2.d005eb51c9deaaeea778.png",
+    "static/media/logo.PNG": "/static/media/logo.797d344f0312d663b3df.PNG",
+    "index.html": "/index.html",
+    "main.537a81d1.css.map": "/static/css/main.537a81d1.css.map",
+    "main.19366293.js.map": "/static/js/main.19366293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537a81d1.css",
+    "static/js/main.19366293.js"
+  ]
+}
