@@ -1,13 +1,10 @@
-import React, { useState } from 'react';
-import emailjs from '@emailjs/browser';
+import React from 'react';
+
 
 
 
 import { TbBrandTelegram, TbBrandInstagram, TbBrandTiktok, TbBrandFacebook, TbBrandLinkedin, TbBrandTwitter } from 'react-icons/tb';
-import { AiOutlineMail, AiOutlineShoppingCart, AiOutlineArrowUp } from 'react-icons/ai';
-import { GrContact } from 'react-icons/gr';
-import { SlCalender } from 'react-icons/sl';
-import { ToastContainer, toast } from 'react-toastify';
+
 import 'react-toastify/dist/ReactToastify.css';
 
 
@@ -18,75 +15,31 @@ import video from '../assets/videos/mainVideo.mp4';
 
 import logo from '../assets/logo.PNG';
 import IG1 from '../assets/IG1.png';
-import IG2 from '../assets/IG2.png';
+
 import IG3 from '../assets/IG3.png';
 import IG4 from '../assets/IG4.png';
 import IG5 from '../assets/IG5.png';
 import IG6 from '../assets/IG6.png';
-import IG7 from '../assets/IG7.png';
+
 import IG8 from '../assets/IG8.png';
 import IG9 from '../assets/IG9.png';
 import IG10 from '../assets/IG10.png';
 import IG11 from '../assets/IG11.png';
 import IG12 from '../assets/IG12.png';
 import IG13 from '../assets/IG13.png';
-import IG14 from '../assets/IG14.png';
+
 import IG15 from '../assets/IG15.png';
 import IG16 from '../assets/IG16.png';
 import IG17 from '../assets/IG17.png';
 import IG18 from '../assets/IG18.png';
-import IG19 from '../assets/IG19.png';
-import IG20 from '../assets/IG20.png';
-import IG21 from '../assets/IG21.png';
-import IG22 from '../assets/IG22.png';
-import IG23 from '../assets/IG23.png';
-import IG24 from '../assets/IG24.png';
+
 
 
 
 const Header = () => {
 
-    const sendEmail = (e) => {
-        e.preventDefault();
-
-
-        emailjs.sendForm('service_5fkjdzt', 'template_n8jatde', e.target, 'UGMR-p7TjS5eLHXFa')
-        emailjs.sendForm('service_5fkjdzt', 'template_i5tvyg9', e.target, 'UGMR-p7TjS5eLHXFa')
-    }
-    const notify = () => {
-        toast.success('You have successfully subscribed!', {
-            position: "top-center",
-            autoClose: 5000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-            theme: "light",
-        });
-    }
-    const [visible, setVisible] = useState(false)
-
-    const toggleVisible = () => {
-        const scrolled = document.documentElement.scrollTop;
-        if (scrolled > 300) {
-            setVisible(true)
-        }
-        else if (scrolled <= 300) {
-            setVisible(false)
-        }
-    };
-
-    const scrollToTop = () => {
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-            /* you can also use 'auto' behaviour
-               in place of 'smooth' */
-        });
-    };
-
-    window.addEventListener('scroll', toggleVisible);
+   
+  
 
     return (
         <div className='container  my-5'>
@@ -143,7 +96,7 @@ const Header = () => {
                     </button>
                 </div>
                 
-                <form onSubmit={sendEmail}>
+                <form >
                     <div class="modal fade" id="firstModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                             <div class="modal-content">
