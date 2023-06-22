@@ -134,91 +134,91 @@ const Header = () => {
                  
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CqtMEdIAEYo/">
-                            <img src={IG1} class="w-100" />
+                            <img src={IG1} alt="image" class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CqlpdyrtzqN/">
-                            <img src={IG3} class="w-100" />
+                            <img src={IG3} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CrZIsucNpzW/">
-                            <img src={IG4} class="w-100" />
+                            <img src={IG4} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CrRZO2TtIeE/">
-                            <img src={IG5} class="w-100" />
+                            <img src={IG5} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CrNrZJmP5ZG/">
-                            <img src={IG6} class="w-100" />
+                            <img src={IG6} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CrDxiaoOCaF/">
-                            <img src={IG8} class="w-100" />
+                            <img src={IG8} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CrDq1cGtopM/">
-                            <img src={IG9} class="w-100" />
+                            <img src={IG9} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CrB0lpFtvvG/">
-                            <img src={IG10} class="w-100" />
+                            <img src={IG10} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/Cqu6c_aJu_1/">
-                            <img src={IG11} class="w-100" />
+                            <img src={IG11} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CqqnoKcNjfT/">
-                            <img src={IG12} class="w-100" />
+                            <img src={IG12} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CqpmiooNejP/">
-                            <img src={IG13} class="w-100" />
+                            <img src={IG13} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CqmyAtJNx6C/">
-                            <img src={IG15} class="w-100" />
+                            <img src={IG15} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/Cqi9bDLslzz/">
-                            <img src={IG16} class="w-100" />
+                            <img src={IG16} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/Cqh-5Vnthln/">
-                            <img src={IG17} class="w-100" />
+                            <img src={IG17} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
                     <div class="col-4 g-2 content">
                         <a href="https://www.instagram.com/p/CqfMYumNg2U/">
-                            <img src={IG18} class="w-100" />
+                            <img src={IG18} alt="image"  class="w-100" />
                             <div class="overlay"></div>
                         </a>
                     </div>
